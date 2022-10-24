@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOcr", "TestOcr\TestOcr.csproj", "{2612A2BA-4D4A-4FF5-BD31-98BF2F33645E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2612A2BA-4D4A-4FF5-BD31-98BF2F33645E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2612A2BA-4D4A-4FF5-BD31-98BF2F33645E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2612A2BA-4D4A-4FF5-BD31-98BF2F33645E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2612A2BA-4D4A-4FF5-BD31-98BF2F33645E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DCB6FA-F3E6-46AA-8DB0-74BDB8440E30}
+	EndGlobalSection
+EndGlobal
